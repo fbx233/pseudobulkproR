@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^pseudobulkproR\.Rproj$
+^\.Rproj\.user$
